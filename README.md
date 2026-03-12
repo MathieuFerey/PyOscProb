@@ -1,1 +1,1 @@
-Python package for computing neutrino oscillation probabilities in slabs of constant densities.
+Python package for computing neutrino oscillation probabilities in slabs of constant densities. The code uses pytorch for vectorizing Hamiltonian diagonalisation on several energies.
