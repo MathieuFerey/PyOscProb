@@ -1,0 +1,3 @@
+plots/*
+src/__pycache__/
+playground.ipynb
