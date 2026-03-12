@@ -1,0 +1,1 @@
+Python package for computing neutrino oscillation probabilities in slabs of constant densities.
