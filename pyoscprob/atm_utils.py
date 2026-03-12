@@ -4,9 +4,9 @@ from tqdm import tqdm
 
 import os
 
-from src.oscillation import Oscillator
-from src.oscillation_parameters import OscillationParameters
-from src.earth import EarthModel
+from pyoscprob.oscillation import Oscillator
+from pyoscprob.oscillation_parameters import OscillationParameters
+from pyoscprob.earth import EarthModel
 
 
 flavour_to_latex = {

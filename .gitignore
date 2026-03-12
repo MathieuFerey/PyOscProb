@@ -2,3 +2,4 @@ plots/*
 src/__pycache__/
 __pycache__/
 playground.ipynb
+*.egg-info

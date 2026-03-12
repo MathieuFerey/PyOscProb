@@ -1,0 +1,18 @@
+name: PyOscProb_env
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - astropy
+  - tqdm
+  - ipython
+  - ipykernel
+  - pip
+
+  - pip:
+      - torch==2.6.0

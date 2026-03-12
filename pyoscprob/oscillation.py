@@ -2,7 +2,7 @@ import numpy as np
 import astropy.units as u
 import torch
 
-import src.const as const
+import pyoscprob.const as const
 
 from tqdm import tqdm
 
