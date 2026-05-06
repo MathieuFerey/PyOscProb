@@ -1,5 +1,6 @@
 import numpy as np
 import astropy.units as u
+
 import torch
 
 import pyoscprob.const as const
@@ -42,6 +43,8 @@ class Oscillator:
         """
 
         self.osc = osc_params
+
+
 
         self.device = device
 
